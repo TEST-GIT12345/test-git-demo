@@ -6,7 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("hrllo.....");
 		System.out.println("relese branch.....");
-System.out.println("dev done on relese branch.....");
+        System.out.println("dev done on relese branch.....");
+        System.out.println("dev done on relese branch from ide.....");
 
     }
 }
